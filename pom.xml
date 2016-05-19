@@ -38,16 +38,6 @@
 				<artifactId>com.paratool.common</artifactId>
 				<version>0.0.1-SNAPSHOT</version>
 			</dependency>
-			<dependency>
-				<groupId>com.paratool</groupId>
-				<artifactId>pala-wsrelay-impl</artifactId>
-				<version>0.92</version>
-			</dependency>
-			<dependency>
-				<groupId>com.paratool</groupId>
-				<artifactId>pala-wsrelay-interfaces</artifactId>
-				<version>1.0</version>
-			</dependency>
 
 			<!-- Spring dependencies -->
 			<dependency>
